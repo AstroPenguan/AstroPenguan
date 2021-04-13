@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @AstroPenguan
-- 👾 My interests are videogames, media creating & expressing myself
+- 👾 My interests are videogames, media creating & expressing my thoughts
 - 🎓 I'm currently studing highschool and basic programming stuff
 - 💼 Currently working on a Minecraft Mod
 - 💭 Wishing to learn java & python, and working on a high level company 🤣
+- 🏠 Living in Mexico
+- 📢 Speaking English and Spanish
 - 📬 You can contact me by Twitter <@astropenguan> (DM open)
 - 🌐 If you want to follow me more close here you have my flowpage https://flow.page/astropenguan
